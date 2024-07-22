@@ -1,21 +1,16 @@
-# Single Page Website
+# Single Page Responsive Website
 
-This project is a simple single page website created using HTML and CSS.
+This project is a single page responsive website created using HTML, CSS, and JavaScript.
 
 ## Features
 
 - Single page layout
-- Simple and clean code
+- Responsive design, works on various devices (desktop, tablet, mobile)
+- Light and dark theme toggle
+- Smooth scrolling navigation
 
 ## Technologies Used
 
 - HTML
 - CSS
-
-## Installation
-
-To clone the project to your local machine, use the following command:
-
-```sh
-git clone https://github.com/yourusername/projectname.git
-```
+- JavaScript
